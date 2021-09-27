@@ -1,0 +1,13 @@
+﻿  Main.cpp
+C:\Users\HP\source\repos\Project2\Project2\Gestor.h(72,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\HP\source\repos\Project2\Project2\Gestor.h(78,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\HP\source\repos\Project2\Project2\Gestor.h(131,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\HP\source\repos\Project2\Project2\Gestor.h(139,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\HP\source\repos\Project2\Project2\Gestor.h(144,24): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\HP\source\repos\Project2\Project2\Gestor.h(147,24): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\HP\source\repos\Project2\Project2\Gestor.h(209,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\HP\source\repos\Project2\Project2\Gestor.h(229,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\HP\source\repos\Project2\Project2\Gestor.h(251,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\HP\source\repos\Project2\Project2\Gestor.h(273,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\HP\source\repos\Project2\Project2\Gestor.h(292,22): warning C4018: '<': no coinciden signed/unsigned
+  Project2.vcxproj -> C:\Users\HP\source\repos\Project2\Debug\Project2.exe
